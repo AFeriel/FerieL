@@ -1,2 +1,2 @@
-# FerieL
+# OpenclassroomProject
 1 - Repository
