@@ -1,4 +1,4 @@
-# Project
+# Project IpPackage
 1 - Repository
 
 function HelloMessage({ name }) {
