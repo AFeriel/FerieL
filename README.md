@@ -1,4 +1,4 @@
-# OpenclassroomProject
+# Project
 1 - Repository
 
 function HelloMessage({ name }) {
